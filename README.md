@@ -5,3 +5,5 @@ Code woks as 5 run for parfor (2 to 6 cores) and than gives us a timing. Than 5 
 I dont know is it fair but Cuda is coded with C++ and matlab with Matlab's coding. Cuda works for 5 sec, Cpu is works for ~4 mins for same results.
 
 I dont think anyone will interest on this topic but just to share it with you.
+
+Also, sorry for my double taps, keyboard is tapping double.
